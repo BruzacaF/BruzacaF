@@ -1,5 +1,4 @@
-## Hi there 👋
-# Welcome!
+## Hi there 👋 Welcome!
 
  
 
@@ -7,7 +6,7 @@
 
  
 
-:computer: I'm Front-End Developer! <code><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif width="30"></code>
+:computer: I'm Front-End Developer! <code><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif width="60"></code>
 
 :house_with_garden: I’m from Brazil.
 
