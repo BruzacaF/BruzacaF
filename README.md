@@ -11,17 +11,18 @@
 :house_with_garden: I’m from Brazil.
 
 ## :books: I’m currently learning: 
-<img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> - TypeScript
+<img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
 
-<img height="20" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> - Next.js
+<img height="20" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
 
-##:outbox_tray: 2024 Goals: create a new project and find a new job.
+##:outbox_tray: 2024 Goals:find a job.
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="30">
 
 
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/BruzacaF)
+
 [![Filipe GitHub stats](https://github-readme-stats.vercel.app/api?username=BruzacaF)](https://github.com/BruzacaF/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruzacaF&layout=compact)](https://github.com/BruzacaF/github-readme-stats)
 
