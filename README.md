@@ -30,7 +30,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BruzacaF&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/BruzacaF/Projeto-LS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BruzacaF&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BruzacaF&repo=Projeto-Ls" />
 </a>
 
 
