@@ -20,10 +20,10 @@ Find a job <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
 
 ## About me
 <a href="https://github.com/BruzacaF/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BruzacaF" />
+  <img height=200 width=150 align="center" src="https://github-readme-stats.vercel.app/api?username=BruzacaF" />
 </a>
 <a href="https://github.com/BruzacaF/Projeto-LS">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BruzacaF&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 width=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BruzacaF&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## Currently Working On
