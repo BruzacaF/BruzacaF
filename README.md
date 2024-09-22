@@ -15,7 +15,7 @@
 
 <img height="20" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
 
-##:outbox_tray: 2024 Goals:find a job.
+## 2024 Goals: find a job.
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="30">
 
 ## About me
@@ -33,10 +33,7 @@
 
 
 
-
-
-
-- Thanks for visiting.
+## Thanks for passing by <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif width="60">
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif width="500">
 <!--
 **BruzacaF/BruzacaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
