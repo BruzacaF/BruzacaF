@@ -34,7 +34,7 @@ Find a job <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
 
 
 ## Thanks for passing by <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif width="60">
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif width="500">
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif width="900">
 <!--
 **BruzacaF/BruzacaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
