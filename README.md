@@ -15,8 +15,8 @@
 
 <img height="20" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
 
-## 2024 Goals: find a job.
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="30">
+## 2024 Goals:
+Find a job <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="30">
 
 ## About me
 <a href="https://github.com/BruzacaF/github-readme-stats">
