@@ -11,8 +11,9 @@
 :house_with_garden: I’m from Brazil.
 
 ## :books: I’m currently learning: 
-<img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> TypeScript 
-<img height="20" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> Next.js
+<img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> - TypeScript
+
+<img height="20" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> - Next.js
 
 ##:outbox_tray: 2024 Goals: create a new project and find a new job.
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="30">
