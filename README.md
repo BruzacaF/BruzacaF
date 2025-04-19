@@ -25,9 +25,7 @@
 Find a job <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="30">
 
 ## About me
-<a href="https://github.com/BruzacaF/github-readme-stats">
-  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=BruzacaF" />
-</a>
+Motivated by a passion for software development, I am currently studying Software Development and seeking an internship to apply and grow my skills in Python, JavaScript, SQL, HTML, and CSS. I learn quickly, enjoy solving challenges, and aim to contribute with creative, efficient solutions while developing both technical and soft skills.
 
 
 
