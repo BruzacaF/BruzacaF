@@ -15,7 +15,7 @@
 
 <img height="20" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
 
-## 2024 Goals:
+## 2025 Goals:
 Find a job <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="30">
 
 ## About me
@@ -23,14 +23,8 @@ Find a job <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
   <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=BruzacaF" />
 </a>
 
-<a href="https://github.com/BruzacaF/Projeto-LS">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BruzacaF&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 ## Currently Working On
-<a href="https://github.com/BruzacaF/Projeto-LS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BruzacaF&repo=Projeto-Ls" />
-</a>
+
 
 
 
