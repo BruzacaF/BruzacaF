@@ -15,6 +15,12 @@
 
 <img height="20" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+
 ## 2025 Goals:
 Find a job <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="30">
 
@@ -23,7 +29,9 @@ Find a job <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
   <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=BruzacaF" />
 </a>
 
-## Currently Working On
+
+
+
 
 
 
