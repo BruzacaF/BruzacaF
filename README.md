@@ -6,7 +6,7 @@
 
  
 
-:computer: I'm Front-End Developer! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif width="60">
+:computer: I'm Software Developer! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif width="60">
 
 :house_with_garden: I’m from Brazil.
 
