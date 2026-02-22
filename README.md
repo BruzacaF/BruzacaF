@@ -96,7 +96,7 @@ Secure a backend or full stack internship position and continue evolving toward 
 ## 📫 Contact
 
 - GitHub: https://github.com/BruzacaF
-- LinkedIn: (add your link here)
+- LinkedIn: https://linkedin.com/in/filipe-bruzaca
 - Email: fbruzacac@gmail.com
 
 ---
